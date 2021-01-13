@@ -74,12 +74,9 @@ $ git push origin master
 
 - `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]` 안에는 이미지 파일의 이름을 작성합니다.
 - 로컬에 이미 파일을 저장한 경우 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
+- Issue에 들어가서 ()안에 들어갈 주소 받아서 ()에 넣기
 
 
-
-<img width="856" alt="스크린샷 2021-01-13 오후 9 42 30" src="https://user-images.githubusercontent.com/76424574/104455017-0afd1b00-55ea-11eb-9582-3ab174ab353b.png">
-
-![image](https://user-images.githubusercontent.com/76424574/104455456-a55d5e80-55ea-11eb-85eb-906525aff6af.png)
 
 ### 1.5 Link
 
